@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#008C7F</color>
+
+    <color name="LightBlack">#1B1B1B</color>
+    <color name="ExtraLightBlack">#2B2B2B</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="gradientColorStart">#008C7F</color>
+    <color name="gradientColorEnd">#103B70</color>
+
+    <color name="MainTextColor">#EFEFEF</color>
+    <color name="MainLineColor">#4C4C4C</color>
+    <color name="White">#FFFFFF</color>
+</resources>

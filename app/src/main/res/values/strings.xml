@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Video Status</string>
+
+    <string name="default_internet_message">Internet connection not available</string>
+
+    <string name="facebook_app_id">783222029146973</string>
+    <string name="facebook_login_protocol_scheme">fb783222029146973</string>
+
+    <!-- values for DownloadUtils -->
+    <string name="txt_pause_for_network">PAUSED_WAITING_FOR_NETWORK</string>
+    <string name="txt_wait_for_retry">PAUSED_WAITING_TO_RETRY</string>
+    <string name="txt_paused_unknown">PAUSED_UNKNOWN</string>
+    <string name="txt_queued_for_wifi">PAUSED_QUEUED_FOR_WIFI</string>
+
+    <string name="txt_status_paused">STATUS_PAUSED</string>
+    <string name="txt_status_pending">STATUS_PENDING</string>
+    <string name="txt_status_running">STATUS_RUNNING</string>
+    <string name="txt_status_successful">STATUS_SUCCESSFUL</string>
+    <string name="txt_status_failed">STATUS_FAILED</string>
+
+    <string name="txt_error_cannot_resume">ERROR_CANNOT_RESUME</string>
+    <string name="txt_error_unknown">ERROR_UNKNOWN</string>
+    <string name="txt_device_not_found">ERROR_DEVICE_NOT_FOUND</string>
+    <string name="txt_error_file_exists">ERROR_FILE_ALREADY_EXISTS</string>
+    <string name="txt_error_file_error">ERROR_FILE_ERROR</string>
+    <string name="txt_error_http_data_error">ERROR_HTTP_DATA_ERROR</string>
+    <string name="txt_error_no_space">ERROR_INSUFFICIENT_SPACE</string>
+    <string name="txt_error_too_many_redirect">ERROR_TOO_MANY_REDIRECTS</string>
+    <string name="txt_error_unhandled_http_code">ERROR_UNHANDLED_HTTP_CODE</string>
+    <string name="lbl_categories">Categories</string>
+    <string name="lbl_videos">Videos</string>
+    <string name="lbl_downloads">Downloads</string>
+    <string name="lbl_favorites">Favorites</string>
+    <string name="lbl_about_us">About Us</string>
+    <string name="lbl_title">Video title</string>
+    <string name="lbl_terms_and_conditions">Terms and Conditions</string>
+    <string name="lbl_select_title">Select Language</string>
+    <string name="lbl_select_category">Select Category</string>
+    <string name="lbl_select_video">Select video</string>
+
+    <string name="lang_guj">Gujarati</string>
+    <string name="lang_hindi">Hindi</string>
+    <string name="lang_eng">English</string>
+    <string name="lang_tamil">Tamil</string>
+    <string name="lang_punjabi">Punjabi</string>
+    <string name="lang_marathi">Marathi</string>
+    <string name="lang_telugu">Telugu</string>
+    <string name="lang_kannad">Kannad</string>
+    <string name="lang_hariyanvi">Hariyanvi</string>
+
+    <string name="cat_happy">Happy</string>
+    <string name="cat_sad">Sad</string>
+    <string name="cat_funny">Funny</string>
+    <string name="cat_festival">Festival</string>
+    <string name="cat_new">New</string>
+    <string name="cat_romantic">Romantic</string>
+    <string name="cat_love">Love</string>
+    <string name="cat_dance">Dance</string>
+    <string name="cat_greetings">Greetings</string>
+    <string name="cat_friendship">Friendship</string>
+    <string name="cat_old">Old</string>
+    <string name="cat_inspiration">Inspiration</string>
+    <string name="cat_birthday">Bithday</string>
+    <string name="cat_lyics">Lyrics</string>
+    <string name="cat_shayari">Shayri</string>
+    <string name="cat_attitude">Attitude</string>
+    <string name="cat_devotional">Devotional</string>
+</resources>

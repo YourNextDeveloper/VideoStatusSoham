@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_guj"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_eng"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_hariyanvi"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_hindi"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_kannad"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_marathi"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_punjabi"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_tamil"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="@string/lang_telugu"
+        android:textColor="@color/MainTextColor"
+        android:textSize="@dimen/dimen_17sp" />
+</LinearLayout>
